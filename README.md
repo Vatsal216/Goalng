@@ -1,1 +1,1 @@
-# Goalng
+# Golang Design Pattern
